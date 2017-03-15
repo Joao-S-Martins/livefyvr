@@ -1,2 +1,3 @@
-# livefyvr
+# LivefyVR
 A VR experience for social content sourced through the Livefyre SDK.
+
